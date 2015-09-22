@@ -1,6 +1,16 @@
 # zland-player
 
-This repo contains everything to render the player in the center of he screen.  
+This repo contains everything to render the player to the center of the screen.  
+
+## Installation
+
+`npm install -g gulp`  
+`npm install`  
+
+## Usage
+
+`gulp`
+
 <!-- start generated readme -->
 
 ## Directories  
