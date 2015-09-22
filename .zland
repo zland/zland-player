@@ -1,0 +1,14 @@
+{
+  "name": "Player",
+  "resolveAlias": "player",
+  "author": "Florian Biewald",
+  "canvasStoreValues": {
+    "player": {
+      "store": "stores/PlayerStore",
+      "method": "getPlayer()"
+    }
+  },
+  "canvasStores": [
+    "stores/PlayerStore"
+  ]
+}
